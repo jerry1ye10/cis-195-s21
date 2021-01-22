@@ -7,7 +7,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
 
-**Deadline:** Friday, January 22nd at lecture time
+**Deadline:** Friday, January 29th at lecture time
 
 - - - -
 
