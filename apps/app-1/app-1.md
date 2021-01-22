@@ -1,12 +1,11 @@
 # App 1: Swift
 
-Discuss this app & get help on [Piazza](https://piazza.com/upenn/fall2019/cis195201/resources).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 2 hours
 
 
-**Deadline:** Thursday, September 10th at **11:59 pm**
+**Deadline:** Friday, January 29th at lecture time
 
 - - - -
 
