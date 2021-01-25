@@ -2,7 +2,7 @@
 
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
-Watch [this](https://www.youtube.com/watch?v=bZNAFkkUeKs&ab_channel=Devslopes) video for a basic demonstration of how to build an app like this. Remember -- Stack Overflow and Google are strongly encouraged as well. If you can't get this tutorial working after 30 minutes, quit. You will be graded on submitting something, not whether it's working or not. At the very least, spend a few minutes playing around with XCode.  
+Watch [this](https://www.youtube.com/watch?v=bZNAFkkUeKs&ab_channel=Devslopes) video for a basic demonstration of how to build an app like this and [this](https://www.youtube.com/watch?v=JX2DLrT_FC4&ab_channel=JerryYe) video for some intro theory. Remember -- Stack Overflow and Google are strongly encouraged as well. If you can't get this tutorial working after 30 minutes, quit. You will be graded on submitting something, not whether it's working or not. At the very least, spend a few minutes playing around with XCode.  
 
 <img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic1.png" width="300" height="500"/> <img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic2.png" width="300" height="500"/>
 
