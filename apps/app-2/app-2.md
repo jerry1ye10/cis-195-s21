@@ -170,5 +170,5 @@ Using `.tintColor`, make your buttons colored `systemBlue` by default. When a bu
 
 ---
 # End of Part B
-SUBMIT YOUR WORK to Github
+Zip up everything and submit your work on canvas
 ---
