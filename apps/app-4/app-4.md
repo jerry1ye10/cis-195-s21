@@ -12,7 +12,7 @@
 * Transition between multiple screens while passing data between them
 * Create your own protocol, and conform to it
 
-![](/apps/app-5/assets/fig1.png?raw=true)
+![](/apps/app-4/assets/fig1.png?raw=true)
 
 ## User Story
 In this app, we'll implement a contacts app. The initial controller will be a list of contacts, initially displaying two hardcoded contacts. Tapping the "+" button in the navigation bar will present a controller to add a new contact. Tapping "Save" on the AddContact controller will save the contact and dismiss AddContact, returning to the initial controller. The contact you added will now be a cell on the initial table controller. Tapping that cell will display a Detail controller that displays all contact info.
@@ -137,7 +137,7 @@ class AddContactViewController {
 ## Sanity Check
 At this point the app should be fully functional. Tapping "Save" on the ACVC without valid information will do nothing. If the information is valid, the contact is saved, the controller is dismissed, and the table view is reloaded. Tapping any of the contact cells displays that contact in detail on the DVC.
 
-![](/apps/app-5/assets/fig3.png?raw=true)
+![](/apps/app-4/assets/fig3.png?raw=true)
 
 ## Bonus Steps
 These steps are NOT required and no extra credit is given. They are just ways you can improve the app if you'd like a little extra challenge!
