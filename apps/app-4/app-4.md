@@ -41,7 +41,7 @@ All controllers must be fully-constrained and adapt to different screen sizes.
 * DVC == DetailViewController
 
 ## Step 0: Create your project
-* Create a new XCode project named `app5-Firstname-Lastname`
+* Create a new XCode project named `app4-Firstname-Lastname`
 * If you're using XCode 11, make sure to select "Storyboards" rather than "SwiftUI".
 * Compile the app and run it on a simulator.
 
