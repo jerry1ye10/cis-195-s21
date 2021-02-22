@@ -62,7 +62,7 @@ All controllers must be fully-constrained and adapt to different screen sizes.
 * Set the title property of each view controller.
 * Run the app, and make sure it loads.
 
-![](/apps/app-5/assets/fig2.png?raw=true)
+![](/apps/app-4/assets/fig2.png?raw=true)
 Your app structure should look something like this. If it doesn't, consult a TA.
 
 ## Step 3: Navigation UI
